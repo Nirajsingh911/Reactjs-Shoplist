@@ -6,6 +6,21 @@
   height: 40vmin;
   pointer-events: none;
 }
+.btn {
+  margin: 2px;
+}
+.divbtn{
+  float: left;
+}
+
+.dropdown {
+  width: 20%;
+  margin: 5px;
+}
+.btn-reset{
+  background-color: aqua;
+  color: blueviolet;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "shopname": "niraj",
+      "category": "Chemist",
+      "area": "Pune",
+      "active": true,
+      "id": 1
+    },
+    {
+      "shopname": "vijayy",
+      "category": "Mall",
+      "area": "Nashik",
+      "active": true,
+      "id": 3
+    },
+    {
+      "shopname": "raddhe",
+      "category": "Gymnesium",
+      "area": "Nagpur",
+      "active": true,
+      "id": 4
+    }
+  ]
+}
